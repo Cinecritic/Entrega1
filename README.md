@@ -14,11 +14,15 @@
 3. Compilar y ejecutar la app Java con el driver JDBC.
 
 ## 🚀 Novedades en esta entrega
-1.🔍 Índices
-Se crearon índices en Prestamo.id_socio y Prestamo.fecha_prestamo para optimizar el rendimiento de consultas frecuentes.
-2.🔄 Transacciones
-Se implementó manejo correcto de transacciones en operaciones como INSERT y UPDATE para garantizar la integridad de los datos.
-3.💻 CRUD desde Java
-Se añadieron operaciones completas de creación, lectura, actualización y eliminación directamente desde la aplicación.
-4.🎯 Interfaz mejorada
-Ahora es más fácil seleccionar libros por número en lugar de ingresar ISBN manualmente, haciendo la experiencia más intuitiva y segura.
+
+- 🔍 **Índices**  
+  Se crearon índices en `Prestamo.id_socio` y `Prestamo.fecha_prestamo` para optimizar el rendimiento de consultas frecuentes.
+
+- 🔄 **Transacciones**  
+  Se implementó manejo correcto de transacciones en operaciones como `INSERT` y `UPDATE` para garantizar la integridad de los datos.
+
+- 💻 **CRUD desde Java**  
+  Se añadieron operaciones completas de creación, lectura, actualización y eliminación directamente desde la aplicación.
+
+- 🎯 **Interfaz mejorada**  
+  Ahora es más fácil seleccionar libros por número en lugar de ingresar ISBN manualmente, haciendo la experiencia más intuitiva y segura.
